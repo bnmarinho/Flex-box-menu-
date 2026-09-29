@@ -1,0 +1,14 @@
+.pai { display: flex;
+       background-color: pink;
+       flex-direction: row;
+       flex-wrap: nowrap; 
+       justify-content: center;
+                    }
+
+.pai div{ background-color: blanchedalmond;
+          border: 1px paleturquoise;
+          padding: 10px;
+          margin: 5px;
+          text-align: center; 
+
+                    }   
